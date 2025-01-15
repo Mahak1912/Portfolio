@@ -30,9 +30,8 @@ I am always eager to learn and collaborate on exciting projects.
 
 ## Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](#)
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](#)
-- 📧 [Email Me](mailto:your_email@example.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/mahak-purohit-69a182155)
+- 📧 [Email Me](mailto:mahakpurohit@yahoo.in)
 
 Feel free to explore my projects and connect with me for collaborations or discussions!
 
